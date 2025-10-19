@@ -12,7 +12,7 @@ Attention, chaque voiture est différente, donc ce qui fonctionne chez moi ne fo
 
 
 ## Sécurité
-Pour que la connexion entre les logiciels et votre véhicule fonctionne, il faudra contourner la gateway qui bloque l'accès en ecriture sur le canBus de la voiture. Il y'aura peut-être un tutoriel à l'avenir, pour le moment essayez de vous renseigner sur internet, la question à déja été abordée de nombresuses fois, vous devriez trouver assez facilement.
+Pour que la connexion entre les logiciels et votre véhicule fonctionne, il faudra contourner la gateway qui bloque l'accès en écriture sur le canBus de la voiture. Ce dépot ayant pour utilité l'explication des différentes fonctions des calculateurs de la Clio 5 phase 1, et pour des raisons légales, je ne ferai pas de tutoriel pour expliquer comment contourner cette gateway. Si vous n'avez aucun souci avec le fait de supprimer votre garantie et de bricker des calculateurs de votre voiture et que vous savez vraiment ce que vous faites, il est assez facile de trouver comment faire sur internet.
 
 
 ## Liste des calculateurs et utilité
@@ -33,7 +33,7 @@ Voici la liste des calculateurs présents dans ma voiture ainsi que leur utilit�
 | FCAM | FrontCamera_C1A_V3.20 | Caméra du pare-brise avant (detection des lignes / panneaux) |
 | DCM Renault | TCU_AIVC_v2.29 | Pas testé |
 
-La communication se fait exclusivement en DiagOnCAN à 500 kbps (pas besoin d'utiliser les autres protocoles lors du scan).
+La communication se fait exclusivement en DiagOnCAN à 500 kbps (pas besoin d'utiliser les autres protocoles lors du scan sur RenOLink).
 
 
 
